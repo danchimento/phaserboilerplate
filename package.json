@@ -8,11 +8,11 @@
     "start": "webpack-dev-server --open"
   },
   "devDependencies": {
-    "webpack": "4.42.0",
+    "webpack": "5.75.0",
     "webpack-dev-server": "^3.10.3",
-    "file-loader": "^5.0.2",
-    "css-loader": "^3.4.2",
-    "webpack-cli": "^3.3.11"
+    "file-loader": "^6.2.0",
+    "css-loader": "^6.7.3",
+    "webpack-cli": "^5.0.1"
   },
   "author": "",
   "license": "ISC",
